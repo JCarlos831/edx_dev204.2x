@@ -1,0 +1,11 @@
+/Users/JuanCMontoya/Projects/vscode/edx_dev204.2x/edxoop/edxoop/bin/Debug/netcoreapp2.0/edxoop.deps.json
+/Users/JuanCMontoya/Projects/vscode/edx_dev204.2x/edxoop/edxoop/bin/Debug/netcoreapp2.0/edxoop.runtimeconfig.json
+/Users/JuanCMontoya/Projects/vscode/edx_dev204.2x/edxoop/edxoop/bin/Debug/netcoreapp2.0/edxoop.runtimeconfig.dev.json
+/Users/JuanCMontoya/Projects/vscode/edx_dev204.2x/edxoop/edxoop/bin/Debug/netcoreapp2.0/edxoop.dll
+/Users/JuanCMontoya/Projects/vscode/edx_dev204.2x/edxoop/edxoop/bin/Debug/netcoreapp2.0/edxoop.pdb
+/Users/JuanCMontoya/Projects/vscode/edx_dev204.2x/edxoop/edxoop/obj/Debug/netcoreapp2.0/edxoop.csprojAssemblyReference.cache
+/Users/JuanCMontoya/Projects/vscode/edx_dev204.2x/edxoop/edxoop/obj/Debug/netcoreapp2.0/edxoop.csproj.CoreCompileInputs.cache
+/Users/JuanCMontoya/Projects/vscode/edx_dev204.2x/edxoop/edxoop/obj/Debug/netcoreapp2.0/edxoop.AssemblyInfoInputs.cache
+/Users/JuanCMontoya/Projects/vscode/edx_dev204.2x/edxoop/edxoop/obj/Debug/netcoreapp2.0/edxoop.AssemblyInfo.cs
+/Users/JuanCMontoya/Projects/vscode/edx_dev204.2x/edxoop/edxoop/obj/Debug/netcoreapp2.0/edxoop.dll
+/Users/JuanCMontoya/Projects/vscode/edx_dev204.2x/edxoop/edxoop/obj/Debug/netcoreapp2.0/edxoop.pdb
