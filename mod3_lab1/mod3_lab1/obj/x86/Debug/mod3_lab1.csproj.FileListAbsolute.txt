@@ -1,0 +1,6 @@
+/Users/JuanCMontoya/Projects/vscode/edx_dev204.2x/mod3_lab1/mod3_lab1/bin/Debug/mod3_lab1.exe
+/Users/JuanCMontoya/Projects/vscode/edx_dev204.2x/mod3_lab1/mod3_lab1/bin/Debug/mod3_lab1.pdb
+/Users/JuanCMontoya/Projects/vscode/edx_dev204.2x/mod3_lab1/mod3_lab1/obj/x86/Debug/mod3_lab1.csprojResolveAssemblyReference.cache
+/Users/JuanCMontoya/Projects/vscode/edx_dev204.2x/mod3_lab1/mod3_lab1/obj/x86/Debug/mod3_lab1.csproj.CoreCompileInputs.cache
+/Users/JuanCMontoya/Projects/vscode/edx_dev204.2x/mod3_lab1/mod3_lab1/obj/x86/Debug/mod3_lab1.exe
+/Users/JuanCMontoya/Projects/vscode/edx_dev204.2x/mod3_lab1/mod3_lab1/obj/x86/Debug/mod3_lab1.pdb
