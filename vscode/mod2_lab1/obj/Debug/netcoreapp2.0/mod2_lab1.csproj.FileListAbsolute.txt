@@ -1,0 +1,11 @@
+/Users/JuanCMontoya/Projects/vscode/mod2_lab1/obj/Debug/netcoreapp2.0/mod2_lab1.csproj.CoreCompileInputs.cache
+/Users/JuanCMontoya/Projects/vscode/mod2_lab1/obj/Debug/netcoreapp2.0/mod2_lab1.AssemblyInfoInputs.cache
+/Users/JuanCMontoya/Projects/vscode/mod2_lab1/obj/Debug/netcoreapp2.0/mod2_lab1.AssemblyInfo.cs
+/Users/JuanCMontoya/Projects/vscode/mod2_lab1/bin/Debug/netcoreapp2.0/mod2_lab1.deps.json
+/Users/JuanCMontoya/Projects/vscode/mod2_lab1/bin/Debug/netcoreapp2.0/mod2_lab1.runtimeconfig.json
+/Users/JuanCMontoya/Projects/vscode/mod2_lab1/bin/Debug/netcoreapp2.0/mod2_lab1.runtimeconfig.dev.json
+/Users/JuanCMontoya/Projects/vscode/mod2_lab1/bin/Debug/netcoreapp2.0/mod2_lab1.dll
+/Users/JuanCMontoya/Projects/vscode/mod2_lab1/bin/Debug/netcoreapp2.0/mod2_lab1.pdb
+/Users/JuanCMontoya/Projects/vscode/mod2_lab1/obj/Debug/netcoreapp2.0/mod2_lab1.dll
+/Users/JuanCMontoya/Projects/vscode/mod2_lab1/obj/Debug/netcoreapp2.0/mod2_lab1.pdb
+/Users/JuanCMontoya/Projects/vscode/mod2_lab1/obj/Debug/netcoreapp2.0/mod2_lab1.csprojResolveAssemblyReference.cache
