@@ -1,0 +1,4 @@
+/Users/JuanCMontoya/Projects/vscode/edx_dev204.2x/abstract_and_sealed_classes/obj/Debug/netcoreapp2.0/abstract_and_sealed_classes.csprojAssemblyReference.cache
+/Users/JuanCMontoya/Projects/vscode/edx_dev204.2x/abstract_and_sealed_classes/obj/Debug/netcoreapp2.0/abstract_and_sealed_classes.csproj.CoreCompileInputs.cache
+/Users/JuanCMontoya/Projects/vscode/edx_dev204.2x/abstract_and_sealed_classes/obj/Debug/netcoreapp2.0/abstract_and_sealed_classes.AssemblyInfoInputs.cache
+/Users/JuanCMontoya/Projects/vscode/edx_dev204.2x/abstract_and_sealed_classes/obj/Debug/netcoreapp2.0/abstract_and_sealed_classes.AssemblyInfo.cs

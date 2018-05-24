@@ -1,0 +1,11 @@
+/Users/JuanCMontoya/Projects/vscode/edx_dev204.2x/mod2_lab2/obj/Debug/netcoreapp2.0/mod2_lab2.csprojAssemblyReference.cache
+/Users/JuanCMontoya/Projects/vscode/edx_dev204.2x/mod2_lab2/obj/Debug/netcoreapp2.0/mod2_lab2.csproj.CoreCompileInputs.cache
+/Users/JuanCMontoya/Projects/vscode/edx_dev204.2x/mod2_lab2/obj/Debug/netcoreapp2.0/mod2_lab2.AssemblyInfoInputs.cache
+/Users/JuanCMontoya/Projects/vscode/edx_dev204.2x/mod2_lab2/obj/Debug/netcoreapp2.0/mod2_lab2.AssemblyInfo.cs
+/Users/JuanCMontoya/Projects/vscode/edx_dev204.2x/mod2_lab2/bin/Debug/netcoreapp2.0/mod2_lab2.deps.json
+/Users/JuanCMontoya/Projects/vscode/edx_dev204.2x/mod2_lab2/bin/Debug/netcoreapp2.0/mod2_lab2.runtimeconfig.json
+/Users/JuanCMontoya/Projects/vscode/edx_dev204.2x/mod2_lab2/bin/Debug/netcoreapp2.0/mod2_lab2.runtimeconfig.dev.json
+/Users/JuanCMontoya/Projects/vscode/edx_dev204.2x/mod2_lab2/bin/Debug/netcoreapp2.0/mod2_lab2.dll
+/Users/JuanCMontoya/Projects/vscode/edx_dev204.2x/mod2_lab2/bin/Debug/netcoreapp2.0/mod2_lab2.pdb
+/Users/JuanCMontoya/Projects/vscode/edx_dev204.2x/mod2_lab2/obj/Debug/netcoreapp2.0/mod2_lab2.dll
+/Users/JuanCMontoya/Projects/vscode/edx_dev204.2x/mod2_lab2/obj/Debug/netcoreapp2.0/mod2_lab2.pdb

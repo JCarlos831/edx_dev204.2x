@@ -1,0 +1,11 @@
+/Users/JuanCMontoya/Projects/vscode/edx_dev204.2x/anonymous_class/bin/Debug/netcoreapp2.0/anonymous_class.deps.json
+/Users/JuanCMontoya/Projects/vscode/edx_dev204.2x/anonymous_class/bin/Debug/netcoreapp2.0/anonymous_class.runtimeconfig.json
+/Users/JuanCMontoya/Projects/vscode/edx_dev204.2x/anonymous_class/bin/Debug/netcoreapp2.0/anonymous_class.runtimeconfig.dev.json
+/Users/JuanCMontoya/Projects/vscode/edx_dev204.2x/anonymous_class/bin/Debug/netcoreapp2.0/anonymous_class.dll
+/Users/JuanCMontoya/Projects/vscode/edx_dev204.2x/anonymous_class/bin/Debug/netcoreapp2.0/anonymous_class.pdb
+/Users/JuanCMontoya/Projects/vscode/edx_dev204.2x/anonymous_class/obj/Debug/netcoreapp2.0/anonymous_class.csprojAssemblyReference.cache
+/Users/JuanCMontoya/Projects/vscode/edx_dev204.2x/anonymous_class/obj/Debug/netcoreapp2.0/anonymous_class.csproj.CoreCompileInputs.cache
+/Users/JuanCMontoya/Projects/vscode/edx_dev204.2x/anonymous_class/obj/Debug/netcoreapp2.0/anonymous_class.AssemblyInfoInputs.cache
+/Users/JuanCMontoya/Projects/vscode/edx_dev204.2x/anonymous_class/obj/Debug/netcoreapp2.0/anonymous_class.AssemblyInfo.cs
+/Users/JuanCMontoya/Projects/vscode/edx_dev204.2x/anonymous_class/obj/Debug/netcoreapp2.0/anonymous_class.dll
+/Users/JuanCMontoya/Projects/vscode/edx_dev204.2x/anonymous_class/obj/Debug/netcoreapp2.0/anonymous_class.pdb
