@@ -35,6 +35,18 @@ namespace mod3_lab1
                 // Informs user there is no file created
                 Console.WriteLine("The file cannot be found.");
             }
+
+            // Invoking the Dispose method in a finally block
+            // Note that code in finally block will always execute
+
+            finally
+            {
+                // Checks if object is not null
+                if (streamReaderObject != null)
+                    // Calls upon the Dispose method
+                    // Releases all resources used by the TextReader object
+                    streamReaderObject.Dispose();
+            }
         }
     }
 }

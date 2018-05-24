@@ -1,35 +1,94 @@
-﻿//
-// EmptyClass.cs
-//
-// Author:
-//       JuanCMontoya <jcmontoya@gmail.com>
-//
-// Copyright (c) 2018 
-//
-// Permission is hereby granted, free of charge, to any person obtaining a copy
-// of this software and associated documentation files (the "Software"), to deal
-// in the Software without restriction, including without limitation the rights
-// to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-// copies of the Software, and to permit persons to whom the Software is
-// furnished to do so, subject to the following conditions:
-//
-// The above copyright notice and this permission notice shall be included in
-// all copies or substantial portions of the Software.
-//
-// THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-// IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-// FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-// AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-// LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-// OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-// THE SOFTWARE.
 using System;
+
 namespace mod2_lab1
 {
-    public class EmptyClass
+    public class Employee
     {
-        public EmptyClass()
+      // 3 private member variables: employeeName, employeeBaseSalary, and employeeId
+
+      private string employeeName;
+      private double employeeBaseSalary;
+      private int employeeId;
+
+      // Public properties
+      public string Name
+      {
+        get
         {
+          return employeeName;
         }
+
+        set
+        {
+          employeeName = value;
+        }
+      }
+      public double BaseSalary
+      {
+        get
+        {
+          return employeeBaseSalary;
+        }
+
+        set
+        {
+          employeeBaseSalary = value;
+        }
+      }
+
+      public int ID
+      {
+        get
+        {
+          return employeeId;
+        }
+
+        set
+        {
+          employeeId = value;
+        }
+      }
+
+      // Creates integer vatiable called "employeeCount" and assigns value to 1
+      private static int employeeCount = 1;
+
+      // Constructor
+      public Employee(String name, double baseSalary)
+      {
+        this.Name = name;
+        this.BaseSalary = baseSalary;
+        this.ID = employeeCount++;
+      }
+
+      // This method returns the employee's base salary
+      public double getBaseSalary()
+      {
+        return this.BaseSalary;
+      }
+
+      // This method returns the employee's name
+      public String getName()
+      {
+        return this.Name;
+      }
+
+      // This method returns the employee's ID
+      public int getEmployeeID()
+      {
+        return this.ID;
+      }
+
+      // This method returns the emplyee's ID and Name
+      public String toString()
+      {
+        return this.ID + " " + this.Name;
+      }
+
+      // This mehtod returns the employee's ID and Nmae and confirms that the employee is in the system
+
+      public virtual String employeeStatus()
+      {
+        return toString() + " is in the company's system";
+      }
     }
 }
